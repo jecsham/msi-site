@@ -1,17 +1,6 @@
 {
-    "name": "v3.0.0",
-    "platforms": {
-      "darwin": {
-        "signature": "",
-        "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.app.tar.gz"
-      },
-      "linux": {
-        "signature": "",
-        "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.AppImage.tar.gz"
-      },
-      "win64": {
-        "signature": "",
-        "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.x64.msi.zip"
-      }
-    }
-  }
+  "url": "https://github.com/jecsham/msi/releases/download/v2.0.1/My.System.Information_2.0.1_x64_en-US.msi.zip",
+  "version": "2.0.1",
+  "notes": "Improvements and bug fixes",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWJDNlE3T2NIeWVCYXM4R3JSNEFNSFQyVWs0QWlDa3Jwd1dLVUlQUHUzOW1aRVFZZDRrcEFKcERubHJkT3lmLzNORWRydnVGSDlKMy9lZk4xbUtlUDN3OE1OU0ptR3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU0NDA4MDU5CWZpbGU6QzpcVXNlcnNcamVjbWVcT25lRHJpdmVcRG9jdW1lbnRzXGdpdGh1Yl9yZXBvc1xtc2lcc3JjLXRhdXJpXHRhcmdldFxyZWxlYXNlXGJ1bmRsZS9tc2kvTXkgU3lzdGVtIEluZm9ybWF0aW9uXzIuMC4xX3g2NF9lbi1VUy5tc2kuemlwCkgvcmRlMXp3NmFQTzVtdythZ0N5dXd6T0g2VW5qWFZ3eU1iekp5YzhQNExoQXlqYWVoYnpIRjdha0hnbG53TjdTUnJYYS8yZUg3Tnljc09DSFBMQUF3PT0K"
+}
